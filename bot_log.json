@@ -1,0 +1,87 @@
+[
+  {
+    "timestamp": "20260512_233208",
+    "status": "failed",
+    "error": "[Errno 2] No such file or directory: 'client_secrets.json'"
+  },
+  {
+    "timestamp": "20260512_235522",
+    "title": "The Shadow in the Night",
+    "video_id": "yqHM6XyfG4g",
+    "duration": 352,
+    "status": "success"
+  },
+  {
+    "timestamp": "20260513_000728",
+    "title": "She Heard Her Own Voice at 3AM \u2014",
+    "video_id": "lkJ_4LiS5zY",
+    "duration": 301,
+    "status": "success"
+  },
+  {
+    "ts": "20260513_002037",
+    "title": "She Didn't Know She Was Already Trapped",
+    "id": "uISAOCQ_oWI",
+    "duration": 300,
+    "status": "success"
+  },
+  {
+    "ts": "20260513_002834",
+    "title": "She Didn't Know She Was Already Home",
+    "id": "-guV2J_bN5Q",
+    "duration": 331,
+    "status": "success"
+  },
+  {
+    "ts": "20260513_003502",
+    "title": "They Were Not Alone In The Asylum",
+    "id": "TB8UFBzCXBc",
+    "duration": 245,
+    "status": "success"
+  },
+  {
+    "ts": "20260513_004222",
+    "title": "The Obituary Came Before I Died",
+    "id": "LNm-UOA62Ms",
+    "duration": 211,
+    "status": "success"
+  },
+  {
+    "ts": "20260513_004714",
+    "status": "failed",
+    "error": "<HttpError 400 when requesting None returned \"The request metadata specifies invalid video keywords.\". Details: \"[{'message': 'The request metadata specifies invalid video keywords.', 'domain': 'youtube.video', 'reason': 'invalidTags', 'location': 'body.snippet.tags', 'locationType': 'other'}]\">"
+  },
+  {
+    "ts": "20260513_005147",
+    "title": "She Found Her Own Obituary and Died 3 Days Later",
+    "id": "aclzQUcPDnQ",
+    "duration": 228,
+    "status": "success"
+  },
+  {
+    "ts": "20260513_221440",
+    "title": "The Village That Wasn't There",
+    "id": "o6Xgir23eeg",
+    "duration": 232,
+    "status": "success"
+  },
+  {
+    "ts": "20260621_055725",
+    "status": "failed",
+    "error": "('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})"
+  },
+  {
+    "ts": "20260621_123843",
+    "title": "The Town That Whispers Your Name",
+    "id": "dlgOms9uNqU",
+    "duration": 282,
+    "status": "success"
+  },
+  {
+    "ts": "20260622_144008",
+    "title": "She Found the Dark Secret in Her Mother's Diary",
+    "id": "Qf6fv6IfIG8",
+    "duration": 292,
+    "status": "success"
+  }
+]
